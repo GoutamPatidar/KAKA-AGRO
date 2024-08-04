@@ -141,7 +141,7 @@ function Home() {
             width={100}
             height={120}
             alt="171x180"
-            src="src/assets/images/deal.png"
+            src="/assets/images/deal.png"
           />
           <Figure.Caption className='figure_caption'>
           ★★★★★<br/> Rating <br/>
@@ -153,7 +153,7 @@ function Home() {
             width={80}
             height={80}
             alt="171x180"
-            src="src/assets/images/pngwing.com.png"
+            src="/assets/images/pngwing.com.png"
           />
           <Figure.Caption className='figure_caption'>
           ★★★★★<br/> Rating <br/>
@@ -164,7 +164,7 @@ function Home() {
             width={100}
             height={120}
             alt="171x180"
-            src="src/assets/images/best-product.png"
+            src="/assets/images/best-product.png"
           />
           <Figure.Caption className='figure_caption'>
           ★★★★★<br/> Rating <br/>
