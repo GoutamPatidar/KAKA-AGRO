@@ -22,8 +22,6 @@ function Home() {
   return (
     <>
 
-     
-
       <h2>Products Types</h2>
       {/* Grid Image */}
 

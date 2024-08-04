@@ -19,9 +19,11 @@ function Footer() {
           <Col>
             <div className="final">
               <div className="first">
-                 <h6 className='footer_logo'  ><NavLink to="/" >
-              KAKA-AGRO
-            </NavLink></h6>
+                <h6 className='footer_logo'  >
+                  <NavLink to="/" >
+                    KAKA-AGRO
+                  </NavLink>
+                </h6>
               </div>
               <div className="second">
                 <a href='https://www.facebook.com/'> <Image className='second_image' src="\assets\images\facebook.png" roundedCircle height={30} width={30} /></a>
@@ -48,9 +50,9 @@ function Footer() {
                   </NavLink>
                 </Nav.Link>
                 <Nav.Link className='mx-5 footer_text' eventKey="/ContactUs">
-                <NavLink to="/ContactUs" className={({ isActive }) => (isActive ? 'active-link' : 'inactive-link')}>
-                ContactUs
-                </NavLink>
+                  <NavLink to="/ContactUs" className={({ isActive }) => (isActive ? 'active-link' : 'inactive-link')}>
+                    ContactUs
+                  </NavLink>
                 </Nav.Link>
                 <Nav.Link eventKey="disabled" disabled>
                 </Nav.Link>

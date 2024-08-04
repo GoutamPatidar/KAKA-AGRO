@@ -13,15 +13,13 @@ const router=createBrowserRouter(
       <Route path='' element={<Home/>}/>
       <Route path='AboutUs' element={<AboutUs/>}/>
       <Route path='ContactUs' element={<ContactUs/>}/>
-    
+
 
     </Route>
   )
 )
 
 function App() {
-  
-
   return (
     <>
     <RouterProvider router={router}/>
