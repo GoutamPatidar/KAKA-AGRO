@@ -1,0 +1,48 @@
+.abc {
+    background-color: rgb(54, 111, 88);
+}
+
+.final {
+    padding-top: 30px;
+    
+}
+
+.footer_logo {
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(156, 207, 47);
+}
+.footer_logo :hover{
+    color: white;
+}
+
+.first {
+
+    color: rgb(156, 207, 47);
+
+}
+
+.second {
+
+    padding-bottom: 5px;
+   
+
+}
+.second_image{
+    margin:  10px;
+}
+
+.third {
+    font-size: 17px;
+    /* font-weight: 400;     */
+    color: rgb(156, 207, 47);
+    font-weight: bold;
+}
+
+.footer_text {
+    color: rgb(156, 207, 47);
+}
+
+.footer_right{
+margin-top: 20px;
+}

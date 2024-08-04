@@ -1,0 +1,16 @@
+.mx-5{
+color:rgb(54, 111, 88);
+font-weight: 600;
+font-size: 20px;
+}
+
+
+
+#basic-navbar-nav :hover{
+    color:white;
+}
+
+.Brand_logo{
+    font-size: 25px;
+    font-weight: 700;
+}

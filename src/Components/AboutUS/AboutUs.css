@@ -1,0 +1,48 @@
+
+header {
+    background-color:  rgb(156, 207, 47);
+    color:rgb(149, 201, 118);
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+.h2-about{
+font-weight: 800;
+}
+
+.about-us-sec {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 90%;
+    background-color:rgb(54, 111, 88);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.about-us-sec p{
+    color:rgb(149, 201, 118);
+    font-weight: 500;
+    text-align: left;
+}
+
+.container-owner-data{
+    margin: 30px 10px 15px 10px;
+}
+.Owner-data{
+    width: 65%;
+}
+.owner-data-p p{
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.line-png{
+    width: 20%;
+    margin: 0;
+}
+
+.founder-data{
+    margin: 30px 0px 30px 0px;
+}

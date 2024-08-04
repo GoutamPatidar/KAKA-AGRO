@@ -1,0 +1,29 @@
+
+#firstname{
+    padding-right: 250px;
+}
+
+#lastname{
+    padding-right: 250px;
+}
+#email{
+    padding-right:576px;
+}
+
+#phone{
+    padding-right:570px;
+}
+
+#country{
+    padding-right:560px;
+}
+
+#message{
+    padding-right:555px;
+}
+
+.btn{
+    background-color:rgb(54, 111, 88);
+    color:rgb(156, 207, 47);
+    font-weight: bold;
+}
