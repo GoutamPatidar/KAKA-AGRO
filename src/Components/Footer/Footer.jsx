@@ -24,9 +24,9 @@ function Footer() {
             </NavLink></h6>
               </div>
               <div className="second">
-                <a href='https://www.facebook.com/'> <Image className='second_image' src="src\assets\images\facebook.png" roundedCircle height={30} width={30} /></a>
-                <a href=' https://x.com/'> <Image href='' className='second_image' src="src\assets\images\1690643640twitter-x-icon-png.png" roundedCircle height={25} width={25} /></a>
-                <a href='https://www.instagram.com/'> <Image href='' className='second_image' src="src\assets\images\you-tube.png" roundedCircle height={30} width={30} /></a>
+                <a href='https://www.facebook.com/'> <Image className='second_image' src="\assets\images\facebook.png" roundedCircle height={30} width={30} /></a>
+                <a href=' https://x.com/'> <Image href='' className='second_image' src="\assets\images\1690643640twitter-x-icon-png.png" roundedCircle height={25} width={25} /></a>
+                <a href='https://www.instagram.com/'> <Image href='' className='second_image' src="\assets\images\you-tube.png" roundedCircle height={30} width={30} /></a>
               </div>
               <div className='third'>
                 <p className='mx-6' > Created by Love ❤️<br />Copyright @2023-2024. </p>

@@ -54,7 +54,7 @@ function Home() {
       <Carousel.Item>
         <img height={400}
           className="d-block w-100 custom-height"
-          src="src\assets\images\ag3.png"
+          src="\assets\images\ag3.png"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -65,7 +65,7 @@ function Home() {
       <Carousel.Item>
         <img height={400}
           className="d-block w-100 custom-height"
-          src="src\assets\images\ag7.png"
+          src="\assets\images\ag7.png"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -76,7 +76,7 @@ function Home() {
       <Carousel.Item>
         <img height={400}
           className="d-block w-100 custom-height"
-          src="src\assets\images\ag5.png"
+          src="\assets\images\ag5.png"
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -87,7 +87,7 @@ function Home() {
       <Carousel.Item>
         <img height={400}
           className="d-block w-100 custom-height"
-          src="src\assets\images\ag2.png"
+          src="\assets\images\ag2.png"
           alt="Third slide"
         />
         <Carousel.Caption>
