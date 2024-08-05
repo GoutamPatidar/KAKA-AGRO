@@ -11,6 +11,7 @@
     font-size: 30px;
     font-weight: 600;
     color: rgb(156, 207, 47);
+    text-decoration: none;
 }
 .footer_logo :hover{
     color: white;
@@ -39,10 +40,19 @@
     font-weight: bold;
 }
 
-.footer_text {
+
+.mx-5-custom-footer{
     color: rgb(156, 207, 47);
-}
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    }
+    
 
 .footer_right{
 margin-top: 20px;
+}
+
+.active-link{
+    color: white;
 }

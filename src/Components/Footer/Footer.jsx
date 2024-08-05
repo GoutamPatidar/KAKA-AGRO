@@ -20,7 +20,7 @@ function Footer() {
             <div className="final">
               <div className="first">
                 <h6 className='footer_logo'  >
-                  <NavLink to="/" >
+                  <NavLink to="/"  className='footer_logo'>
                     KAKA-AGRO
                   </NavLink>
                 </h6>
@@ -39,18 +39,18 @@ function Footer() {
 
             <div>
               <Nav defaultActiveKey="/" className="flex-column  footer_right">
-                <Nav.Link className='mx-5 footer_text' href="/">
-                  <NavLink to="/" className={({ isActive }) => (isActive ? 'active-link' : 'inactive-link')}>
+                <Nav.Link className='mx-5 ' >
+                  <NavLink to="/" className={({ isActive }) => `${isActive ? 'active-link ' : 'inactive-link'} mx-5-custom-footer`}>
                     Home
                   </NavLink>
                 </Nav.Link>
-                <Nav.Link className='mx-5 footer_text' eventKey="/AboutUs">
-                  <NavLink to="/AboutUS" className={({ isActive }) => (isActive ? 'active-link' : 'inactive-link')}>
+                <Nav.Link className='mx-5 ' >
+                  <NavLink to="/AboutUS" className={({ isActive }) => `${isActive ? 'active-link ' : 'inactive-link'} mx-5-custom-footer`}>
                     AboutUs
                   </NavLink>
                 </Nav.Link>
-                <Nav.Link className='mx-5 footer_text' eventKey="/ContactUs">
-                  <NavLink to="/ContactUs" className={({ isActive }) => (isActive ? 'active-link' : 'inactive-link')}>
+                <Nav.Link className='mx-5 '>
+                  <NavLink to="/ContactUs" className={({ isActive }) => `${isActive ? 'active-link ' : 'inactive-link'} mx-5-custom-footer`}>
                     ContactUs
                   </NavLink>
                 </Nav.Link>

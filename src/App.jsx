@@ -7,12 +7,15 @@ import AboutUs from './Components/AboutUS/AboutUs.jsx'
 import ContactUs from './Components/ContactUs/ContactUs.jsx'
 import Home from './Components/Home/Home.jsx'
 import Layout from './Layout.jsx'
-const router=createBrowserRouter(
+
+
+
+const router = createBrowserRouter(
   createRoutesFromElements(
-    <Route path='/' element={<Layout/>}>
-      <Route path='' element={<Home/>}/>
-      <Route path='AboutUs' element={<AboutUs/>}/>
-      <Route path='ContactUs' element={<ContactUs/>}/>
+    <Route path='/' element={<Layout />}>
+      <Route path='' element={<Home />} />
+      <Route path='AboutUs' element={<AboutUs />} />
+      <Route path='ContactUs' element={<ContactUs />} />
 
 
     </Route>
@@ -22,9 +25,14 @@ const router=createBrowserRouter(
 function App() {
   return (
     <>
-    <RouterProvider router={router}/>
+      <RouterProvider router={router}/>
+       
+      
+
+
     </>
   )
 }
 
 export default App
+
