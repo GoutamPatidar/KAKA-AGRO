@@ -30,15 +30,15 @@ function Home() {
           <Row >
             <Col xs={6} md={4} className='res_mob_product'>
               <h4>Seeds</h4>
-              <Image src="https://www.agroinfomart.com/images/category/seeds.jpg" roundedCircle />
+              <Image src="https://www.agroinfomart.com/images/category/seeds.jpg" roundedCircle height={150} width={150} />
             </Col>
             <Col xs={6} md={4} className='res_mob_product'>
               <h4>Pesticides</h4>
-              <Image src="https://www.agroinfomart.com/images/category/pesticide.jpg" roundedCircle />
+              <Image src="https://www.agroinfomart.com/images/category/pesticide.jpg" roundedCircle height={150} width={150} />
             </Col>
             <Col xs={6} md={4} className='res_mob_product'>
               <h4>Fertilisers</h4>
-              <Image src="https://www.agroinfomart.com/images/category/fertilizer.jpg" roundedCircle />
+              <Image src="https://www.agroinfomart.com/images/category/fertilizer.jpg" roundedCircle  height={150} width={150}/>
             </Col>
 
           </Row>
