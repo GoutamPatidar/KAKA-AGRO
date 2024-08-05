@@ -16,7 +16,7 @@ function ContactUs() {
           <div className="row row-cols-md-2 ">
             <div className="aos-item" data-aos="fade-up" data-aos-delay="200">
               <div className="aos-item__inner">
-                <div className="bg-light hvr-shutter-out-horizontal d-block p-3 my-2 rounded">
+                <div className="bg-light hvr-shutter-out-horizontal d-block p-0 py-3 my-2 rounded">
                   <div className="d-flex justify-content-start">
                     <i className="fa-solid fa-envelope h3 pe-2"></i>
                     <span className="h5">Email</span>
