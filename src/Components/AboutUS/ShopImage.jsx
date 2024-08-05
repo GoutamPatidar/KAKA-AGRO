@@ -10,15 +10,15 @@ function ShopImage() {
                 <div class="container">
                     <div id="gallery" class="photos-grid-container gallery">
                         <div class="main-photo img-box">
-                            <img src="public\assets\images\Shop1.jpeg" alt="image" />
+                            <img src="\assets\images\Shop1.jpeg" alt="image" />
                         </div>
                         <div>
                             <div class="sub">
-                                <div class="img-box"><img src="public\assets\images\Shop2.jpeg" alt="image" /></div>
-                                <div class="img-box"><img src="public\assets\images\Shop3.jpeg" alt="image" /></div>
-                                <div class="img-box"><img src="public\assets\images\Shop4.jpeg" alt="image" /></div>
+                                <div class="img-box"><img src="\assets\images\Shop2.jpeg" alt="image" /></div>
+                                <div class="img-box"><img src="\assets\images\Shop3.jpeg" alt="image" /></div>
+                                <div class="img-box"><img src="\assets\images\Shop4.jpeg" alt="image" /></div>
                                 <div id="multi-link" class="img-box">
-                                    <img src="public\assets\images\Shop5.jpeg" alt="image" />
+                                    <img src="\assets\images\Shop5.jpeg" alt="image" />
                                     <div class="transparent-box">
                                         <div class="caption">
                                             +3
